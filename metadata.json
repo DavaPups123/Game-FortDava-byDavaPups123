@@ -1,0 +1,8 @@
+{
+  "name": "FORTNITE ROYALE 3D",
+  "description": "3D Battle Royale with Battle Bus drop, multi-biome island, vehicles, building, skins, emotes, ranked divisions, and tournaments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
